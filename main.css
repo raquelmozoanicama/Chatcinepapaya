@@ -1,0 +1,19 @@
+body{
+	text-align: text-center;
+}
+
+.wrapper{
+	width: 80%;
+	border:1px solid gray;
+}
+
+.chat{
+	width:77%;
+	border:1px solid transparent;
+	height: 542px;
+}
+
+.contenedor-botones{
+  width: 77%;
+  border-top: 1px solid gray;
+}
